@@ -23,5 +23,5 @@ To run this project locally, follow these steps:
 ### Result (Output) Image
 ![alt text](https://github.com/aneeshbajwa/Neural-Style-Transfer/blob/3eda39f86f5674fdfd0720608341b4e9498180dc/Generated_image.png)
 
-##Credits
+## Credits
 This project is inspired by the work of [Gatys et al. (2015) on Neural Style Transfer](https://arxiv.org/abs/1508.06576).
