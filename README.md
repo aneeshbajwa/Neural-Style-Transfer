@@ -15,7 +15,7 @@ To run this project locally, follow these steps:
 
 ## Examples
 ### Content Image (from Caltach-101 Dataset - https://data.caltech.edu/records/mzrjq-6wc02)
-![alt text]([https://github.com/aneeshbajwa/Neural-Style-Transfer/blob/aea6686b903109da8e7f1640f03641d5205a5b75/StarryNight.jpg](https://github.com/aneeshbajwa/Neural-Style-Transfer/blob/aea6686b903109da8e7f1640f03641d5205a5b75/image_0001.jpg)
+![alt text](https://github.com/aneeshbajwa/Neural-Style-Transfer/blob/aea6686b903109da8e7f1640f03641d5205a5b75/StarryNight.jpg](https://github.com/aneeshbajwa/Neural-Style-Transfer/blob/aea6686b903109da8e7f1640f03641d5205a5b75/image_0001.jpg)
 
 ### Style Image
 ![alt text](https://github.com/aneeshbajwa/Neural-Style-Transfer/blob/aea6686b903109da8e7f1640f03641d5205a5b75/StarryNight.jpg)
