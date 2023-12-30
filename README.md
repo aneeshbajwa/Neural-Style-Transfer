@@ -21,6 +21,6 @@ To run this project locally, follow these steps:
 ![alt text](https://github.com/aneeshbajwa/Neural-Style-Transfer/blob/aea6686b903109da8e7f1640f03641d5205a5b75/StarryNight.jpg)
 
 ### Result (Output) Image
-
+![alt text](https://github.com/aneeshbajwa/Neural-Style-Transfer/blob/3eda39f86f5674fdfd0720608341b4e9498180dc/Generated_image.png)
 Credits
 This project is inspired by the work of [Gatys et al. (2015) on Neural Style Transfer](https://arxiv.org/abs/1508.06576).
